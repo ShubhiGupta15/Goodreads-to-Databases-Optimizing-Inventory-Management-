@@ -1,0 +1,24 @@
+                                                                    QUERY PLAN                                                                    
+--------------------------------------------------------------------------------------------------------------------------------------------------
+ Unique  (cost=635.57..637.07 rows=200 width=548) (actual time=35.756..36.577 rows=9190 loops=1)
+   ->  Sort  (cost=635.57..636.07 rows=200 width=548) (actual time=35.756..35.944 rows=9190 loops=1)
+         Sort Key: (avg(b.average_rating)) DESC, a.name
+         Sort Method: quicksort  Memory: 758kB
+         ->  HashAggregate  (cost=625.43..627.93 rows=200 width=548) (actual time=10.687..12.424 rows=9190 loops=1)
+               Group Key: a.name
+               Batches: 1  Memory Usage: 4001kB
+               ->  Hash Join  (cost=420.00..614.23 rows=2240 width=528) (actual time=2.929..7.361 rows=19125 loops=1)
+                     Hash Cond: (ba.bookid = b.bookid)
+                     ->  Hash Join  (cost=129.64..317.95 rows=2240 width=520) (actual time=1.287..4.080 rows=19125 loops=1)
+                           Hash Cond: ((ba.authorid)::text = (a.authorid)::text)
+                           ->  Seq Scan on book_authors ba  (cost=0.00..182.40 rows=2240 width=520) (actual time=0.005..0.711 rows=19125 loops=1)
+                           ->  Hash  (cost=119.84..119.84 rows=784 width=1032) (actual time=1.275..1.276 rows=9190 loops=1)
+                                 Buckets: 16384 (originally 1024)  Batches: 1 (originally 1)  Memory Usage: 592kB
+                                 ->  Seq Scan on authors a  (cost=0.00..119.84 rows=784 width=1032) (actual time=0.004..0.507 rows=9190 loops=1)
+                     ->  Hash  (cost=280.16..280.16 rows=816 width=16) (actual time=1.638..1.638 rows=11117 loops=1)
+                           Buckets: 16384 (originally 1024)  Batches: 1 (originally 1)  Memory Usage: 606kB
+                           ->  Seq Scan on books b  (cost=0.00..280.16 rows=816 width=16) (actual time=0.003..0.852 rows=11117 loops=1)
+ Planning Time: 0.386 ms
+ Execution Time: 36.805 ms
+(20 rows)
+

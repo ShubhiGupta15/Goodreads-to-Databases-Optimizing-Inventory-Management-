@@ -1,0 +1,13 @@
+        name         | total_ratings_reviews 
+---------------------+-----------------------
+ JK Rowling          |               9402059
+ Mary GrandPr        |               9051986
+ JRR Tolkien         |               5685087
+ Stephenie Meyer     |               4691931
+ Stephen King        |               4368743
+ Dan Brown           |               4201447
+ William Shakespeare |               4097538
+ Nicholas Sparks     |               3148362
+ JD Salinger         |               2830624
+ Rick Riordan        |               2483216
+

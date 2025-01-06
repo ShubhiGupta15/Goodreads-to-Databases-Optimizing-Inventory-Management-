@@ -1,0 +1,13 @@
+        name         | total_books 
+---------------------+-------------
+ Stephen King        |          99
+ William Shakespeare |          93
+ JRR Tolkien         |          55
+ Sandra Brown        |          48
+ Agatha Christie     |          47
+ PG Wodehouse        |          47
+ Roald Dahl          |          46
+ Orson Scott Card    |          44
+ James Patterson     |          43
+ Mercedes Lackey     |          43
+

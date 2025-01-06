@@ -1,0 +1,21 @@
+                                                              QUERY PLAN                                                               
+---------------------------------------------------------------------------------------------------------------------------------------
+ Unique  (cost=580.97..583.02 rows=200 width=634) (actual time=3.386..3.389 rows=20 loops=1)
+   ->  Sort  (cost=580.97..581.65 rows=273 width=634) (actual time=3.386..3.387 rows=20 loops=1)
+         Sort Key: b.language_name, b.title
+         Sort Method: quicksort  Memory: 26kB
+         ->  Hash Join  (cost=287.58..569.92 rows=273 width=634) (actual time=2.058..3.343 rows=20 loops=1)
+               Hash Cond: ((b.language_name)::text = (books.language_name)::text)
+               ->  Seq Scan on books b  (cost=0.00..280.16 rows=816 width=634) (actual time=0.003..0.351 rows=11117 loops=1)
+               ->  Hash  (cost=286.74..286.74 rows=67 width=118) (actual time=1.947..1.948 rows=14 loops=1)
+                     Buckets: 1024  Batches: 1  Memory Usage: 9kB
+                     ->  HashAggregate  (cost=284.24..286.74 rows=67 width=118) (actual time=1.939..1.942 rows=14 loops=1)
+                           Group Key: books.language_name
+                           Filter: (count(books.bookid) < 5)
+                           Batches: 1  Memory Usage: 40kB
+                           Rows Removed by Filter: 13
+                           ->  Seq Scan on books  (cost=0.00..280.16 rows=816 width=122) (actual time=0.001..0.549 rows=11117 loops=1)
+ Planning Time: 0.220 ms
+ Execution Time: 3.421 ms
+(17 rows)
+

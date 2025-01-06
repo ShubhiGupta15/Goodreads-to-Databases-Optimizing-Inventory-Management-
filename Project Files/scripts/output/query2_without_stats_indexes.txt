@@ -1,0 +1,22 @@
+                                                                              QUERY PLAN                                                                              
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Limit  (cost=317.60..317.65 rows=4 width=234) (actual time=1.879..1.882 rows=10 loops=1)
+   ->  Unique  (cost=317.60..317.65 rows=4 width=234) (actual time=1.879..1.881 rows=10 loops=1)
+         ->  Sort  (cost=317.60..317.61 rows=4 width=234) (actual time=1.879..1.879 rows=10 loops=1)
+               Sort Key: (count(b.bookid)) DESC, p.publisher_name, (min(b.publication_date)), (max(b.publication_date))
+               Sort Method: quicksort  Memory: 30kB
+               ->  GroupAggregate  (cost=317.47..317.56 rows=4 width=234) (actual time=1.517..1.543 rows=110 loops=1)
+                     Group Key: p.publisher_name
+                     ->  Sort  (cost=317.47..317.48 rows=4 width=226) (actual time=1.513..1.516 rows=141 loops=1)
+                           Sort Key: p.publisher_name
+                           Sort Method: quicksort  Memory: 31kB
+                           ->  Nested Loop  (cost=0.28..317.43 rows=4 width=226) (actual time=0.011..1.114 rows=141 loops=1)
+                                 ->  Seq Scan on books b  (cost=0.00..284.24 rows=4 width=12) (actual time=0.005..0.988 rows=141 loops=1)
+                                       Filter: ((publication_date >= '2010-01-01'::date) AND (publication_date <= '2020-12-31'::date))
+                                       Rows Removed by Filter: 10976
+                                 ->  Index Scan using publishers_pkey on publishers p  (cost=0.28..8.29 rows=1 width=222) (actual time=0.001..0.001 rows=1 loops=141)
+                                       Index Cond: (publisherid = b.publisherid)
+ Planning Time: 0.292 ms
+ Execution Time: 1.913 ms
+(18 rows)
+

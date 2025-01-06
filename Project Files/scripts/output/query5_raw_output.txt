@@ -1,0 +1,91 @@
+-[ RECORD 1 ]------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+book_title         | The Complete Calvin and Hobbes
+author             | Bill Watterson
+average_rating     | 4.82
+text_reviews_count | 930
+num_pages          | 1456
+publication_date   | 2005-09-06
+publisher_name     | Andrews McMeel Publishing
+total_authors      | 1
+-[ RECORD 2 ]------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+book_title         | Harry Potter Boxed Set  Books 1-5 (Harry Potter  #1-5)
+author             | JK Rowling/Mary GrandPr
+average_rating     | 4.78
+text_reviews_count | 164
+num_pages          | 2690
+publication_date   | 2004-09-13
+publisher_name     | Scholastic
+total_authors      | 2
+-[ RECORD 3 ]------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+book_title         | Harry Potter Collection (Harry Potter  #1-6)
+author             | JK Rowling
+average_rating     | 4.73
+text_reviews_count | 808
+num_pages          | 3342
+publication_date   | 2005-09-12
+publisher_name     | Scholastic
+total_authors      | 1
+-[ RECORD 4 ]------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+book_title         | Study Bible: NIV
+author             | Anonymous
+average_rating     | 4.70
+text_reviews_count | 186
+num_pages          | 2198
+publication_date   | 2002-10-01
+publisher_name     | Zondervan Publishing House
+total_authors      | 1
+-[ RECORD 5 ]------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+book_title         | The Life and Times of Scrooge McDuck
+author             | Don Rosa
+average_rating     | 4.67
+text_reviews_count | 149
+num_pages          | 266
+publication_date   | 2005-06-01
+publisher_name     | Gemstone Publishing
+total_authors      | 1
+-[ RECORD 6 ]------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+book_title         | The Absolute Sandman  Volume One
+author             | Neil Gaiman/Mike Dringenberg/Chris Bachalo/Michael Zulli/Kelly Jones/Charles Vess/Colleen Doran/Malcolm Jones III/Steve Parkhouse/Daniel Vozzo/Lee Loughridge/Steve Oliff/Todd Klein/Dave McKean/Sam Kieth
+average_rating     | 4.65
+text_reviews_count | 512
+num_pages          | 612
+publication_date   | 2006-11-01
+publisher_name     | Vertigo
+total_authors      | 15
+-[ RECORD 7 ]------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+book_title         | Fullmetal Alchemist  Vol. 10
+author             | Hiromu Arakawa/Akira Watanabe
+average_rating     | 4.60
+text_reviews_count | 151
+num_pages          | 200
+publication_date   | 2006-11-21
+publisher_name     | VIZ Media LLC
+total_authors      | 2
+-[ RECORD 8 ]------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+book_title         | Fullmetal Alchemist  Vol. 12 (Fullmetal Alchemist  #12)
+author             | Hiromu Arakawa/Akira Watanabe
+average_rating     | 4.60
+text_reviews_count | 119
+num_pages          | 192
+publication_date   | 2007-03-20
+publisher_name     | VIZ Media LLC
+total_authors      | 2
+-[ RECORD 9 ]------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+book_title         | J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings
+author             | JRR Tolkien
+average_rating     | 4.59
+text_reviews_count | 1550
+num_pages          | 1728
+publication_date   | 2012-09-25
+publisher_name     | Ballantine Books
+total_authors      | 1
+-[ RECORD 10 ]-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+book_title         | Fullmetal Alchemist  Vol. 11 (Fullmetal Alchemist  #11)
+author             | Hiromu Arakawa/Akira Watanabe
+average_rating     | 4.59
+text_reviews_count | 129
+num_pages          | 192
+publication_date   | 2007-01-16
+publisher_name     | VIZ Media LLC
+total_authors      | 2
+

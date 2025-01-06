@@ -1,0 +1,1076 @@
+             name              | total_languages 
+-------------------------------+-----------------
+ JK Rowling                    |               7
+ Nicholas Sparks               |               6
+ Roald Dahl                    |               6
+ Stephen King                  |               6
+ CS Lewis                      |               5
+ Chuck Palahniuk               |               5
+ Dan Simmons                   |               5
+ Dave Eggers                   |               5
+ Marian Keyes                  |               5
+ Michael Crichton              |               5
+ Tracy Chevalier               |               5
+ Aeschylus                     |               4
+ Albert Camus                  |               4
+ Anne Rice                     |               4
+ Aristophanes                  |               4
+ Arthur Golden                 |               4
+ Astrid Lindgren               |               4
+ Bill Bryson                   |               4
+ Charles Dickens               |               4
+ Dan Brown                     |               4
+ Dante Alighieri               |               4
+ David Sedaris                 |               4
+ EB White                      |               4
+ Eoin Colfer                   |               4
+ Euripides                     |               4
+ Friedrich Nietzsche           |               4
+ Gabriel Garca Mrquez          |               4
+ Garth Williams                |               4
+ Georg Wilhelm Friedrich Hegel |               4
+ Gore Vidal                    |               4
+ Gregory Maguire               |               4
+ Hermann Hesse                 |               4
+ JRR Tolkien                   |               4
+ Jill Mansell                  |               4
+ Jodi Picoult                  |               4
+ John Irving                   |               4
+ Juan Rulfo                    |               4
+ Kate Atkinson                 |               4
+ Laurie Notaro                 |               4
+ Maeve Binchy                  |               4
+ Neal Stephenson               |               4
+ Neil Gaiman                   |               4
+ Noam Chomsky                  |               4
+ Orson Scott Card              |               4
+ Oscar Wilde                   |               4
+ Patrick OBrian                |               4
+ Pauline Baynes                |               4
+ Philip Pullman                |               4
+ Reinaldo Arenas               |               4
+ Roddy Doyle                   |               4
+ Rumiko Takahashi              |               4
+ Sandra Brown                  |               4
+ Seamus Heaney                 |               4
+ Simone de Beauvoir            |               4
+ T Coraghessan Boyle           |               4
+ Terry Brooks                  |               4
+ Terry Pratchett               |               4
+ Thomas Pynchon                |               4
+ Umberto Eco                   |               4
+ VC Andrews                    |               4
+ Waris Dirie                   |               4
+ Yann Martel                   |               4
+ Yayoi Ogawa                   |               4
+ Alan  Lee                     |               3
+ Aldous Huxley                 |               3
+ Alexander McCall Smith        |               3
+ Alexander Pushkin             |               3
+ Alice Sebold                  |               3
+ Amy Tan                       |               3
+ Anthony Burgess               |               3
+ Anton Chekhov                 |               3
+ Apollodorus                   |               3
+ Aristotle                     |               3
+ Arthur Koestler               |               3
+ Benjamin Jowett               |               3
+ Blake Nelson                  |               3
+ Bret Easton Ellis             |               3
+ CLAMP                         |               3
+ Carolyn Meyer                 |               3
+ Charles Bukowski              |               3
+ Charles Burns                 |               3
+ Chris L Demarest              |               3
+ Chris Ware                    |               3
+ Christopher Hitchens          |               3
+ Chuck Klosterman              |               3
+ Clive Cussler                 |               3
+ Craig Thompson                |               3
+ David Baldacci                |               3
+ David Morrell                 |               3
+ Don DeLillo                   |               3
+ Douglas Clegg                 |               3
+ Dr Seuss                      |               3
+ Edgar Allan Poe               |               3
+ Elizabeth George              |               3
+ Emma McLaughlin               |               3
+ Ernest Hemingway              |               3
+ F Scott Fitzgerald            |               3
+ Federico Garca Lorca          |               3
+ Francine Pascal               |               3
+ Frank Quitely                 |               3
+ Franz Kafka                   |               3
+ Fyodor Dostoyevsky            |               3
+ Georges Simenon               |               3
+ Gillen DArcy Wood             |               3
+ Grant Morrison                |               3
+ Ha Jin                        |               3
+ Harold Bloom                  |               3
+ Haruki Murakami               |               3
+ Haven Kimmel                  |               3
+ Henry Chadwick                |               3
+ Herman Melville               |               3
+ Hiromu Arakawa                |               3
+ Homer                         |               3
+ Iain M Banks                  |               3
+ Irvin D Yalom                 |               3
+ Irvine Welsh                  |               3
+ Isabel Allende                |               3
+ Ivo Andri                     |               3
+ Jack Kerouac                  |               3
+ Jack Vance                    |               3
+ James   McBride               |               3
+ Jane Green                    |               3
+ Jane Hamilton                 |               3
+ Jean M Auel                   |               3
+ JeanPaul Sartre               |               3
+ Jeffery Deaver                |               3
+ Jennifer Crusie               |               3
+ Jennifer Weiner               |               3
+ Jerry B Jenkins               |               3
+ Jhumpa Lahiri                 |               3
+ Jo Clayton                    |               3
+ Joan Didion                   |               3
+ Johann Wolfgang von Goethe    |               3
+ John Keegan                   |               3
+ John McPhee                   |               3
+ Jonathan Franzen              |               3
+ Jonathan Safran Foer          |               3
+ Jos Saramago                  |               3
+ Joyce Carol Oates             |               3
+ Junichir Tanizaki             |               3
+ Kahlil Gibran                 |               3
+ Kate William                  |               3
+ Kay Redfield Jamison          |               3
+ Kim Harrison                  |               3
+ Knut Hamsun                   |               3
+ Kurt Vonnegut Jr              |               3
+ Lance Armstrong               |               3
+ Laura Esquivel                |               3
+ Laurell K Hamilton            |               3
+ Lidia Matticchio Bastianich   |               3
+ Lonely Planet                 |               3
+ Madeleine LEngle              |               3
+ Marcel Proust                 |               3
+ Marguerite Duras              |               3
+ Mark Twain                    |               3
+ Marshall Sahlins              |               3
+ Mary Pope Osborne             |               3
+ Mary Wollstonecraft Shelley   |               3
+ Mercedes Lackey               |               3
+ Michael Tanner                |               3
+ Miguel de Cervantes Saavedra  |               3
+ Mitch Albom                   |               3
+ Natsuo Kirino                 |               3
+ Neil Strauss                  |               3
+ Nicola Kraus                  |               3
+ Nikolai Gogol                 |               3
+ Noel Streatfeild              |               3
+ Norton Juster                 |               3
+ PD Eastman                    |               3
+ Patrick Robinson              |               3
+ Patrick Sskind                |               3
+ Paul Auster                   |               3
+ Paul Kemprecos                |               3
+ Peter Straub                  |               3
+ Philip K Dick                 |               3
+ Philip Roth                   |               3
+ Piers Anthony                 |               3
+ Plato                         |               3
+ Quentin Blake                 |               3
+ Ram Dass                      |               3
+ Ray Bradbury                  |               3
+ Raymond E Feist               |               3
+ Richard A Knaak               |               3
+ Richard Alpert                |               3
+ Robert Greene                 |               3
+ Robert Louis Stevenson        |               3
+ Robert R McCammon             |               3
+ Russell Banks                 |               3
+ Ruth Ozeki                    |               3
+ Sally Jenkins                 |               3
+ Sandra Cisneros               |               3
+ Satosumi Takaguchi            |               3
+ Scott McKowen                 |               3
+ Shel Silverstein              |               3
+ Simon Schama                  |               3
+ Sinclair Lewis                |               3
+ Sophocles                     |               3
+ Stephen J Dubner              |               3
+ Stephen Lang                  |               3
+ Stephen R Donaldson           |               3
+ Steve Wozniak                 |               3
+ Steven D Levitt               |               3
+ Sverre Lyngstad               |               3
+ Tad Williams                  |               3
+ Takashi Hashiguchi            |               3
+ Tennessee Williams            |               3
+ Terry Goodkind                |               3
+ Tim LaHaye                    |               3
+ Tite Kubo                     |               3
+ Tom Robbins                   |               3
+ Tom Stoppard                  |               3
+ Toni Morrison                 |               3
+ Virgil                        |               3
+ Voltaire                      |               3
+ Warren Ellis                  |               3
+ William Goldman               |               3
+ William Shakespeare           |               3
+ Zadie Smith                   |               3
+ sne Seierstad                 |               3
+ Adam Gopnik                   |               2
+ Agatha Christie               |               2
+ Al Franken                    |               2
+ Al Ries                       |               2
+ Alain de Botton               |               2
+ Alan Dean Foster              |               2
+ Alan R Clarke                 |               2
+ Albert Einstein               |               2
+ Alcoholics Anonymous          |               2
+ Alexander O Smith             |               2
+ Alice   Miller                |               2
+ Alice Walker                  |               2
+ Amy Krouse Rosenthal          |               2
+ Amy Sedaris                   |               2
+ Andrew Hurley                 |               2
+ Andrew J Offutt               |               2
+ Andrew Solomon                |               2
+ Andy Hunt                     |               2
+ Angela Knight                 |               2
+ Anita Diamant                 |               2
+ Anita Shreve                  |               2
+ Ann Beattie                   |               2
+ Ann Charters                  |               2
+ Ann M Martin                  |               2
+ AnnMarie MacDonald            |               2
+ Anna Maxted                   |               2
+ Anna Sewell                   |               2
+ Anne Mazer                    |               2
+ Anne McCaffrey                |               2
+ Anne Tyler                    |               2
+ Annie Dillard                 |               2
+ Ansel Adams                   |               2
+ Anthony Bourdain              |               2
+ Anthony Cronin                |               2
+ Anthony Grafton               |               2
+ Anthony H Chambers            |               2
+ Anthony Heald                 |               2
+ Anthony Loyd                  |               2
+ Antoine de SaintExupry        |               2
+ Anya Seton                    |               2
+ Arkangel Cast                 |               2
+ Arlene Eisenberg              |               2
+ Armistead Maupin              |               2
+ Arthur  Miller                |               2
+ Arthur Conan Doyle            |               2
+ Arthur M Schlesinger Jr       |               2
+ Arthur Pober                  |               2
+ Arturo PrezReverte            |               2
+ Aubrey de Slincourt           |               2
+ Audrey Niffenegger            |               2
+ Augusten Burroughs            |               2
+ Avi                           |               2
+ Ayn Rand                      |               2
+ Barack Obama                  |               2
+ Barbara Bray                  |               2
+ Barbara Ehrenreich            |               2
+ Barbara Park                  |               2
+ Barbara Taylor Bradford       |               2
+ Barrett Whitener              |               2
+ Beatrix Potter                |               2
+ Beau Bridges                  |               2
+ Bernard Cornwell              |               2
+ Bernard Malamud               |               2
+ Bernard Williams              |               2
+ Bernie Wrightson              |               2
+ Bill Brown                    |               2
+ Bill Hybels                   |               2
+ Bill Maher                    |               2
+ Bill Phillips                 |               2
+ Billy Crystal                 |               2
+ Blair Brown                   |               2
+ Brendan DuBois                |               2
+ Brian Ajhar                   |               2
+ Brian Greene                  |               2
+ Brian Herbert                 |               2
+ Brian Jacques                 |               2
+ Brian Selznick                |               2
+ Brian Sibley                  |               2
+ Burton G Malkiel              |               2
+ CF Smith                      |               2
+ CJ Cherryh                    |               2
+ CJ Critt                      |               2
+ CK Scott Moncrieff            |               2
+ CS Friedman                   |               2
+ Cait London                   |               2
+ Carl Hiaasen                  |               2
+ Carlos Castaeda               |               2
+ Carlos Ruiz Zafn              |               2
+ Carol Cosman                  |               2
+ Carol Higgins Clark           |               2
+ Carol Shields                 |               2
+ Carol Stock Kranowitz         |               2
+ Caroline B Cooney             |               2
+ Carolyn Keene                 |               2
+ Carolyn McCormick             |               2
+ Catherine Coulter             |               2
+ Cecily von Ziegesar           |               2
+ Celeste Bradley               |               2
+ Charles Baudelaire            |               2
+ Charles Darwin                |               2
+ Charles E Wilbour             |               2
+ Charles Mackay                |               2
+ Charles R Swindoll            |               2
+ Charles Segal                 |               2
+ Charles Stross                |               2
+ Charlie Huston                |               2
+ Charlie ONeill                |               2
+ Charlotte Bront               |               2
+ Charlton Heston               |               2
+ Chiho Saito                   |               2
+ Chip Kidd                     |               2
+ Chris Manby                   |               2
+ Chris Sheban                  |               2
+ Christina Schwarz             |               2
+ Christina Scull               |               2
+ Christophe Claro              |               2
+ Christopher Golden            |               2
+ Christopher Hirsheimer        |               2
+ Christopher Isherwood         |               2
+ Christopher Marlowe           |               2
+ Christopher Moore             |               2
+ Christopher Stasheff          |               2
+ Christopher Tolkien           |               2
+ CliffsNotes                   |               2
+ Colin Duriez                  |               2
+ Colin Wilson                  |               2
+ Colleen McCullough            |               2
+ Connie Willis                 |               2
+ Conor McPherson               |               2
+ Constance Garnett             |               2
+ Cormac McCarthy               |               2
+ Cornelia Funke                |               2
+ Cory Doctorow                 |               2
+ Craig Dirgo                   |               2
+ Cynthia HarrodEagles          |               2
+ DH Lawrence                   |               2
+ DIsraeli                      |               2
+ Dai Sijie                     |               2
+ Dale Carnegie                 |               2
+ Dale Peck                     |               2
+ Dale Peterson                 |               2
+ Dan Andreasen                 |               2
+ Dan Millman                   |               2
+ Dan Savage                    |               2
+ Daniel C Dennett              |               2
+ Daniel Clowes                 |               2
+ Daniel Defoe                  |               2
+ Daniel Halpern                |               2
+ Daniel Jonah Goldhagen        |               2
+ Daniel Keyes                  |               2
+ Daniel Pinchbeck              |               2
+ Daniel Stashower              |               2
+ Daniel Vozzo                  |               2
+ Danielle Steel                |               2
+ Daphne du Maurier             |               2
+ Dave McKean                   |               2
+ Dave Thomas                   |               2
+ David    Allen                |               2
+ David  Luke                   |               2
+ David B Barrett               |               2
+ David Bodanis                 |               2
+ David Dukes                   |               2
+ David Elliot                  |               2
+ David Gemmell                 |               2
+ David Goodis                  |               2
+ David Grene                   |               2
+ David Hahn                    |               2
+ David Hatcher Childress       |               2
+ David Levithan                |               2
+ David Lubar                   |               2
+ David McCullough              |               2
+ David Nussbaum                |               2
+ David R Hawkins               |               2
+ David R Slavitt               |               2
+ David Tischman                |               2
+ David Watson                  |               2
+ David Weber                   |               2
+ David Wood                    |               2
+ David Wootton                 |               2
+ Dean Koontz                   |               2
+ Debbie Dadey                  |               2
+ Denis Diderot                 |               2
+ Denis Johnson                 |               2
+ Denise Brunkus                |               2
+ Denise Mina                   |               2
+ Dennis Etchison               |               2
+ Diana Wynne Jones             |               2
+ Diane Duane                   |               2
+ Diane Goode                   |               2
+ Diane Johnson                 |               2
+ Dick Francis                  |               2
+ Dick Giordano                 |               2
+ Dick Hill                     |               2
+ Donal OKelly                  |               2
+ Donald Goines                 |               2
+ Donald J Sobol                |               2
+ Donald Spoto                  |               2
+ Donna Freitas                 |               2
+ Doreen Cronin                 |               2
+ Dorothy L Sayers              |               2
+ Douglas Adams                 |               2
+ Douglas Coupland              |               2
+ Douglas Preston               |               2
+ Douglas Smith                 |               2
+ Dyan Sheldon                  |               2
+ E Nesbit                      |               2
+ EL Doctorow                   |               2
+ EM Forster                    |               2
+ Ed Gorman                     |               2
+ Edith Hamilton                |               2
+ Edmund Spenser                |               2
+ Edward Asner                  |               2
+ Edward G Seidensticker        |               2
+ Edward Gibbon                 |               2
+ Edward Gorey                  |               2
+ Edward McCrorie               |               2
+ Edward P Jones                |               2
+ Edward R Tufte                |               2
+ Edwidge Danticat              |               2
+ Elaine Cunningham             |               2
+ Elizabeth Ann Scarborough     |               2
+ Elizabeth Berg                |               2
+ Elizabeth Clare Prophet       |               2
+ Elizabeth Dalton              |               2
+ Elizabeth Kostova             |               2
+ Elizabeth Lowell              |               2
+ Elizabeth Moon                |               2
+ Elizabeth von Arnim           |               2
+ Elspeth Huxley                |               2
+ Emily Bront                   |               2
+ Emily Giffin                  |               2
+ Emma Donoghue                 |               2
+ Emma Holly                    |               2
+ Emmanuel Le Roy Ladurie       |               2
+ Emmuska Orczy                 |               2
+ Eric Schlosser                |               2
+ Eric Tyson                    |               2
+ Erich Fromm                   |               2
+ Erich Maria Remarque          |               2
+ Erin McCarthy                 |               2
+ Erin St Claire                |               2
+ Ernest Alfred Vizetelly       |               2
+ Esther Allen                  |               2
+ Eudora Welty                  |               2
+ Eugne Ionesco                 |               2
+ F Paul Wilson                 |               2
+ Faza Gune                     |               2
+ Florence Lamborn              |               2
+ Frances Butwin                |               2
+ Frances Hodgson Burnett       |               2
+ Francesca Lia Block           |               2
+ Francine Prose                |               2
+ Frank  Muller                 |               2
+ Frank E Peretti               |               2
+ Frank Herbert                 |               2
+ Frank Kermode                 |               2
+ Frank McCourt                 |               2
+ Fred Saberhagen               |               2
+ Frederick C Beiser            |               2
+ Frederick Charles Copleston   |               2
+ Friedrich Engels              |               2
+ Fritz Leiber                  |               2
+ G Richard Shell               |               2
+ GEM Anscombe                  |               2
+ GP Goold                      |               2
+ Gareth Stedman Jones          |               2
+ Garry Wills                   |               2
+ Garth Nix                     |               2
+ Gary Carey                    |               2
+ Gary Erskine                  |               2
+ Gary Paulsen                  |               2
+ Gary Richard Thompson         |               2
+ Gary Smalley                  |               2
+ Gene Kerrigan                 |               2
+ Geoffrey Chaucer              |               2
+ George Beahm                  |               2
+ George Crile                  |               2
+ George E Stanley              |               2
+ George Eliot                  |               2
+ George Gamow                  |               2
+ George Lucas                  |               2
+ George Orwell                 |               2
+ George RR Martin              |               2
+ Georges Perec                 |               2
+ Gerard Stembridge             |               2
+ Gina Moxley                   |               2
+ Giovanni Pontiero             |               2
+ Glen Merzer                   |               2
+ Glenn McCoy                   |               2
+ Graham Masterton              |               2
+ Greg Iles                     |               2
+ Greg Ruggiero                 |               2
+ Gustave Flaubert              |               2
+ Guy Abadia                    |               2
+ Guy Cardwell                  |               2
+ Guy Francis                   |               2
+ HG Wells                      |               2
+ HP Lovecraft                  |               2
+ Halldr Laxness                |               2
+ Hanif Kureishi                |               2
+ Harper Lee                    |               2
+ Harrison Hayford              |               2
+ Harry G Frankfurt             |               2
+ Harvey Pekar                  |               2
+ Hayao Miyazaki                |               2
+ Heidi Hayes Jacobs            |               2
+ Heidi Murkoff                 |               2
+ Helen Fielding                |               2
+ Helen McCarthy                |               2
+ Henning Mankell               |               2
+ Henri JM Nouwen               |               2
+ Herman Wouk                   |               2
+ Herodotus                     |               2
+ Hershel Parker                |               2
+ Hideyuki Kikuchi              |               2
+ Hilary H Milton               |               2
+ Hirohiko Araki                |               2
+ Honor de Balzac               |               2
+ Hotaru Odagiri                |               2
+ Howard Chaykin                |               2
+ Howard F Lyman                |               2
+ Howard Porter                 |               2
+ Hugo Hamilton                 |               2
+ Huston Smith                  |               2
+ Ian Beck                      |               2
+ Ian Fleming                   |               2
+ Ilon Wikland                  |               2
+ Immanuel Kant                 |               2
+ Indu Sundaresan               |               2
+ Iris Murdoch                  |               2
+ Irving Stone                  |               2
+ Isaac Asimov                  |               2
+ Isaac Bashevis Singer         |               2
+ Ishmael Reed                  |               2
+ Italo Calvino                 |               2
+ J Sibree                      |               2
+ JD Robb                       |               2
+ JD Salinger                   |               2
+ JM Coetzee                    |               2
+ JV Jones                      |               2
+ Jack Dann                     |               2
+ Jack Du Brul                  |               2
+ Jack Kerley                   |               2
+ Jack London                   |               2
+ Jack Trout                    |               2
+ Jacob Grimm                   |               2
+ Jacqueline Carey              |               2
+ Jakob Nielsen                 |               2
+ James A Michener              |               2
+ James Axler                   |               2
+ James Ellroy                  |               2
+ James Grieve                  |               2
+ James Joyce                   |               2
+ James Lamar Roberts           |               2
+ James Lee Burke               |               2
+ James M Kouzes                |               2
+ James Patterson               |               2
+ James Preller                 |               2
+ James Redfield                |               2
+ James Romberger               |               2
+ James Sexton                  |               2
+ James Thomas                  |               2
+ Jamie  Smith                  |               2
+ Jane Austen                   |               2
+ Jane Smiley                   |               2
+ Janet Evanovich               |               2
+ Janet Pack                    |               2
+ Janet Valade                  |               2
+ Janette Oke                   |               2
+ Janny Wurts                   |               2
+ Javier Cercas                 |               2
+ Jay McInerney                 |               2
+ Jay Parini                    |               2
+ Jean Rabe                     |               2
+ Jean Rhys                     |               2
+ JeanJacques Rousseau          |               2
+ JeanPaul Orpinas              |               2
+ Jeffrey Ford                  |               2
+ Jeffrey Henderson             |               2
+ Jenna Jameson                 |               2
+ Jennifer Tolbert Roberts      |               2
+ Jenny Nimmo                   |               2
+ Jerome K Jerome               |               2
+ Jerry Spinelli                |               2
+ Jessica Adams                 |               2
+ Jessie Coulson                |               2
+ Jim Lehrer                    |               2
+ Jimmy Buffett                 |               2
+ Jimmy Carter                  |               2
+ Jincy Willett                 |               2
+ Joan Aiken                    |               2
+ Joan Holub                    |               2
+ Joanne Harris                 |               2
+ Joanne Trautmann              |               2
+ Jody Lynn Nye                 |               2
+ Joe Haldeman                  |               2
+ Joe Kubert                    |               2
+ Joe Mantegna                  |               2
+ John         Green            |               2
+ John Barth                    |               2
+ John Bayley                   |               2
+ John Berendt                  |               2
+ John Brunner                  |               2
+ John C Maxwell                |               2
+ John Collier                  |               2
+ John Connolly                 |               2
+ John Dos Passos               |               2
+ John Eldredge                 |               2
+ John F MacArthur Jr           |               2
+ John Gray                     |               2
+ John Grisham                  |               2
+ John Grogan                   |               2
+ John Kennedy Toole            |               2
+ John Kenneth Galbraith        |               2
+ John Milton                   |               2
+ John Perkins                  |               2
+ John Piper                    |               2
+ John Sandford                 |               2
+ John Saul                     |               2
+ John Steinbeck                |               2
+ John Steven Gurney            |               2
+ John Stokes                   |               2
+ John Sturrock                 |               2
+ John Tollett                  |               2
+ John Updike                   |               2
+ Jon J Muth                    |               2
+ Jonathan Carroll              |               2
+ Jonathan Harr                 |               2
+ Jonathan Swift                |               2
+ Joost Elffers                 |               2
+ Jordi Castells                |               2
+ Jorge Luis Borges             |               2
+ Jos Luis GarcaLpez            |               2
+ Joseph Bruchac                |               2
+ Joseph Campbell               |               2
+ Joseph Heller                 |               2
+ Joseph OConnor                |               2
+ Joseph Wambaugh               |               2
+ Jostein Gaarder               |               2
+ Jude Fisher                   |               2
+ Judith Butler                 |               2
+ Julia Alvarez                 |               2
+ Julian Jaynes                 |               2
+ Julian May                    |               2
+ Julie Powell                  |               2
+ Juliet Marillier              |               2
+ Justin OBrien                 |               2
+ Karen Kingsbury               |               2
+ Karin Slaughter               |               2
+ Karl Marx                     |               2
+ Kate DiCamillo                |               2
+ Kate Mosse                    |               2
+ Katherine Kurtz               |               2
+ Katherine Paterson            |               2
+ Kathryn Lasky                 |               2
+ Kazuo Umezu                   |               2
+ Kenneth H Blanchard           |               2
+ Kenneth James Dover           |               2
+ Kevin CrossleyHolland         |               2
+ Kevin Henkes                  |               2
+ Kevin J Anderson              |               2
+ Kevin Trudeau                 |               2
+ Kim Stanley Robinson          |               2
+ Kohta Hirano                  |               2
+ Kresley Cole                  |               2
+ Kurban Said                   |               2
+ Kurt Busiek                   |               2
+ Kyoko Hikawa                  |               2
+ L Sprague de Camp             |               2
+ LA Banks                      |               2
+ LM Montgomery                 |               2
+ Larissa Volokhonsky           |               2
+ Larry McMurtry                |               2
+ Larry Niven                   |               2
+ Laura Caldwell                |               2
+ Laura Driscoll                |               2
+ Laura Godwin                  |               2
+ Laura Ingalls Wilder          |               2
+ Lauren Weisberger             |               2
+ Laurence Yep                  |               2
+ Laurie Halse Anderson         |               2
+ Laurie Thompson               |               2
+ Lawrence Block                |               2
+ Lawrence Durrell              |               2
+ Lawrence Otis Graham          |               2
+ Lee Child                     |               2
+ Leo Tolstoy                   |               2
+ Leonard Mlodinow              |               2
+ Leonard S Marcus              |               2
+ Leonard Sweet                 |               2
+ Lerone Bennett Jr             |               2
+ Lewis Carroll                 |               2
+ Lin Carter                    |               2
+ Lincoln Child                 |               2
+ Lloyd Alexander               |               2
+ Lois Lenski                   |               2
+ Louis Begley                  |               2
+ Louis Iribarne                |               2
+ Louis J Budd                  |               2
+ Louisa May Alcott             |               2
+ Ludwig Wittgenstein           |               2
+ Luis Seplveda                 |               2
+ Lynda Barry                   |               2
+ Lynda Milligan                |               2
+ M Scott Peck                  |               2
+ MC Beaton                     |               2
+ MM Kaye                       |               2
+ Madeleine Brent               |               2
+ Magnus Magnusson              |               2
+ Malcolm Gladwell              |               2
+ Malvina G Vogel               |               2
+ Manuela Soares                |               2
+ Marcelo Frusn                 |               2
+ Marcia Angell                 |               2
+ Marcia Thornton Jones         |               2
+ Margaret Atwood               |               2
+ Margaret Brantley             |               2
+ Margaret Truman               |               2
+ Margaret Weis                 |               2
+ Mari Mancusi                  |               2
+ MarieCatherine Caillava       |               2
+ Marilyn Manson                |               2
+ Marion Zimmer Bradley         |               2
+ Marissa Moss                  |               2
+ Marjane Satrapi               |               2
+ Mark Billingham               |               2
+ Mark Buckingham               |               2
+ Mark Hussey                   |               2
+ Mark LeVine                   |               2
+ Mark Pennington               |               2
+ Mark Z Danielewski            |               2
+ Marsha Collier                |               2
+ Marshall McLuhan              |               2
+ Martin H Greenberg            |               2
+ Martin Heidegger              |               2
+ Marvin Kaye                   |               2
+ Mary Engelbreit               |               2
+ Mary Higgins Clark            |               2
+ Mary Roach                    |               2
+ Mary S Lovell                 |               2
+ Masamune Shirow               |               2
+ Matthew Kneale                |               2
+ Matthew L Sands               |               2
+ Maud Hart Lovelace            |               2
+ Maurice Sendak                |               2
+ Max Allan Collins             |               2
+ Max Barry                     |               2
+ Max Frisch                    |               2
+ Mechtild SandbergCiletti      |               2
+ Meg Cabot                     |               2
+ Melanie Rawn                  |               2
+ Mervyn Peake                  |               2
+ Michael   Lewis               |               2
+ Michael Connelly              |               2
+ Michael D Lyman               |               2
+ Michael Hague                 |               2
+ Michael Kandel                |               2
+ Michael Moorcock              |               2
+ Michael Neill                 |               2
+ Michael Palin                 |               2
+ Michael Pollan                |               2
+ Michael Shaara                |               2
+ Michael Swanwick              |               2
+ Michael Teitelbaum            |               2
+ Michel de Montaigne           |               2
+ Michio Kaku                   |               2
+ Mickey Zucker Reichert        |               2
+ Mikal Gilmore                 |               2
+ Mike Lupica                   |               2
+ Mike Resnick                  |               2
+ Mikhail Bulgakov              |               2
+ Minette Walters               |               2
+ Mircea Eliade                 |               2
+ Monica Gesue                  |               2
+ Moses Hadas                   |               2
+ Murasaki Shikibu              |               2
+ Nancy J Smith                 |               2
+ Nancy Varian Berberick        |               2
+ Nancy White Carlstrom         |               2
+ Natalie Pope Boyce            |               2
+ Nathaniel Hawthorne           |               2
+ Nathaniel Philbrick           |               2
+ Neale Donald Walsch           |               2
+ Nelson DeMille                |               2
+ Nicholson Baker               |               2
+ Nick Hornby                   |               2
+ Nick ODonohoe                 |               2
+ Nick Tosches                  |               2
+ Nigel Nicolson                |               2
+ Nigella Lawson                |               2
+ Nikki Giovanni                |               2
+ Noah Gordon                   |               2
+ Nora Roberts                  |               2
+ Norm Bendell                  |               2
+ Norma Goldman                 |               2
+ Norman Mailer                 |               2
+ Norman Rush                   |               2
+ Oh Great                      |               2
+ Omar Rayyan                   |               2
+ Orhan Pamuk                   |               2
+ Oscar Hijuelos                |               2
+ Owen ONeill                   |               2
+ PG Wodehouse                  |               2
+ Pablo Neruda                  |               2
+ Paramahansa Yogananda         |               2
+ Pat Conroy                    |               2
+ Patricia A McKillip           |               2
+ Patricia Cornwell             |               2
+ Patricia Hampl                |               2
+ Patrick Lencioni              |               2
+ Paul Bowles                   |               2
+ Paul Davies                   |               2
+ Paul Johnson                  |               2
+ Paul Pitchford                |               2
+ Paul Theroux                  |               2
+ Paul Woodruff                 |               2
+ Paula Danziger                |               2
+ Pauline McLynn                |               2
+ Paulo Coelho                  |               2
+ Pedro Jorge Romero            |               2
+ Penelope Fitzgerald           |               2
+ Pete Woods                    |               2
+ Peter Abrahams                |               2
+ Peter David                   |               2
+ Peter F Hamilton              |               2
+ Peter Hulme                   |               2
+ Peter Kreeft                  |               2
+ Peter Mayle                   |               2
+ Peter Meineck                 |               2
+ Peter RL Brown                |               2
+ Peter Robinson                |               2
+ Peter Singer                  |               2
+ Petrina Tinslay               |               2
+ Phil Jimenez                  |               2
+ Philip Bond                   |               2
+ Philip Gabriel                |               2
+ Philippa Gregory              |               2
+ Pindar                        |               2
+ Primo Levi                    |               2
+ Quentin Carter                |               2
+ Quentin Skinner               |               2
+ R Scott Bakker                |               2
+ RW Alley                      |               2
+ Rachel Ryan                   |               2
+ Rainer Funk                   |               2
+ Ramsey Campbell               |               2
+ Randy Alcorn                  |               2
+ Raymond Queneau               |               2
+ Rebecca Solnit                |               2
+ Ren Descartes                 |               2
+ Rex Gibson                    |               2
+ Ricardo Piglia                |               2
+ Richard  Adams                |               2
+ Richard  Hull                 |               2
+ Richard A Posner              |               2
+ Richard Bachman               |               2
+ Richard Bausch                |               2
+ Richard Brautigan             |               2
+ Richard Dawkins               |               2
+ Richard Matheson              |               2
+ Richard P Feynman             |               2
+ Richard P Martin              |               2
+ Richard Paul Russo            |               2
+ Richard Pevear                |               2
+ Richard Poe                   |               2
+ Richard Powers                |               2
+ Richard R George              |               2
+ Richard Rhodes                |               2
+ Richard Russo                 |               2
+ Richard Wright                |               2
+ Richmond Lattimore            |               2
+ Rick Riordan                  |               2
+ Rick Warren                   |               2
+ Rob Bell                      |               2
+ Rob Kidd                      |               2
+ Robb Forman Dew               |               2
+ Robert A Dahl                 |               2
+ Robert A Heinlein             |               2
+ Robert Andrew Parker          |               2
+ Robert Anton Wilson           |               2
+ Robert B Leighton             |               2
+ Robert B Parker               |               2
+ Robert Baldick                |               2
+ Robert Benedetti              |               2
+ Robert Coles                  |               2
+ Robert D Kaplan               |               2
+ Robert Fitzgerald             |               2
+ Robert Frost                  |               2
+ Robert Graves                 |               2
+ Robert Hardy Baker            |               2
+ Robert Jordan                 |               2
+ Robert L OConnell             |               2
+ Robert Ludlum                 |               2
+ Robert M Adams                |               2
+ Robert M Durling              |               2
+ Robert M Pirsig               |               2
+ Robert M Sapolsky             |               2
+ Robert Mayhew                 |               2
+ Robert McCloskey              |               2
+ Robert Nye                    |               2
+ Robert S Baker                |               2
+ Robert Shapard                |               2
+ Robert Silverberg             |               2
+ Robert Vavra                  |               2
+ Robin Hobb                    |               2
+ Robin McKinley                |               2
+ Robin P Williams              |               2
+ Rodney Stark                  |               2
+ Roger Ebert                   |               2
+ Roger Hargreaves              |               2
+ Roger Pearson                 |               2
+ Roger Penrose                 |               2
+ Roger Zelazny                 |               2
+ Rohinton Mistry               |               2
+ Ron McLarty                   |               2
+ Ron Roy                       |               2
+ Rosemary Edghill              |               2
+ Rosemary Wells                |               2
+ Rudyard Kipling               |               2
+ Rumer Godden                  |               2
+ Russell Hoban                 |               2
+ SD Schindler                  |               2
+ SE Hinton                     |               2
+ SM Stirling                   |               2
+ Salman Rushdie                |               2
+ Salvatore Murdocca            |               2
+ Samuel Beckett                |               2
+ Sandra Boynton                |               2
+ Sarah Johnstone               |               2
+ Sarah Mlynowski               |               2
+ Sarah Shankman                |               2
+ Satoru Kannagi                |               2
+ Saul Bellow                   |               2
+ Scott ODell                   |               2
+ Seamus Deane                  |               2
+ Sean Phillips                 |               2
+ Sebastian Faulks              |               2
+ Shaun Whiteside               |               2
+ Shayla Black                  |               2
+ Shirley Rousseau Murphy       |               2
+ Sholom Aleichem               |               2
+ Sigrid Undset                 |               2
+ Simon Vance                   |               2
+ Smith Palmer Bovie            |               2
+ Stanisaw Lem                  |               2
+ Stanley Appelbaum             |               2
+ Stanley Bing                  |               2
+ Stanley Lombardo              |               2
+ Stanley Wiater                |               2
+ Stephen Greenblatt            |               2
+ Stephen Hawking               |               2
+ Stephen Hunter                |               2
+ Stephen Jay Gould             |               2
+ Stephen M Pollan              |               2
+ Stephen R Covey               |               2
+ Stephen Rebello               |               2
+ Steve Erickson                |               2
+ Steve Martini                 |               2
+ Steve Perry                   |               2
+ Steve Yeowell                 |               2
+ Steven Johnson                |               2
+ Steven Pressfield             |               2
+ Stewart Brand                 |               2
+ Stormie Omartian              |               2
+ Stuart Gilbert                |               2
+ Stuart Woods                  |               2
+ Sue Monk Kidd                 |               2
+ Susan Hill                    |               2
+ Susan Howatch                 |               2
+ Sylvia Nasar                  |               2
+ TH White                      |               2
+ Tacitus                       |               2
+ Takeshi Obata                 |               2
+ Tamora Pierce                 |               2
+ Tananarive Due                |               2
+ Tanith Lee                    |               2
+ Ted Honderich                 |               2
+ Ted Hughes                    |               2
+ Temple Grandin                |               2
+ Terence Kilmartin             |               2
+ Terry C Johnston              |               2
+ Terry Eagleton                |               2
+ Terry Jones                   |               2
+ Tess Gerritsen                |               2
+ Thomas Aquinas                |               2
+ Thomas Cahill                 |               2
+ Thomas Colchie                |               2
+ Thomas Hardy                  |               2
+ Thomas Harlan                 |               2
+ Thomas L Friedman             |               2
+ Thucydides                    |               2
+ Tobias Wolff                  |               2
+ Todd Gitlin                   |               2
+ Tom Clancy                    |               2
+ Tom Humphries                 |               2
+ Tom Morris                    |               2
+ Tomie dePaola                 |               2
+ Tommy Lee Edwards             |               2
+ Toni Bentley                  |               2
+ Tony Hawks                    |               2
+ Tony Ross                     |               2
+ Tracy Hickman                 |               2
+ Troy Howell                   |               2
+ Tsugumi Ohba                  |               2
+ Tsutomu Nihei                 |               2
+ Ursula Hegi                   |               2
+ Ursula K Le Guin              |               2
+ VS Naipaul                    |               2
+ Various                       |               2
+ Vera Neville                  |               2
+ Victor Hugo                   |               2
+ Viggo Mortensen               |               2
+ Vijay Prashad                 |               2
+ Vince Flynn                   |               2
+ Virginia Woolf                |               2
+ W Frederick Zimmerman         |               2
+ WHD Rouse                     |               2
+ WS Merwin                     |               2
+ Wallace Stegner               |               2
+ Wally Lamb                    |               2
+ Walt Disney Company           |               2
+ Walter Blanco                 |               2
+ Walter Hamilton               |               2
+ Walter J Savitch              |               2
+ Walter Kaufmann               |               2
+ Walter Scott                  |               2
+ Wayne G Hammond               |               2
+ Wilhelm Grimm                 |               2
+ Wilkie Collins                |               2
+ Will Eisner                   |               2
+ Will Ferguson                 |               2
+ Willard R Trask               |               2
+ William  James                |               2
+ William Faulkner              |               2
+ William Gaddis                |               2
+ William Gibson                |               2
+ William Golding               |               2
+ William Irwin                 |               2
+ William J Bennett             |               2
+ William L Shirer              |               2
+ William Manchester            |               2
+ William Morris                |               2
+ William Rodney Allen          |               2
+ William S Burroughs           |               2
+ William Saroyan               |               2
+ William Sleator               |               2
+ William T Vollmann            |               2
+ Wole Soyinka                  |               2
+ Yoshitaka Amano               |               2
+ Yuki Shimizu                  |               2
+ Yukito Kishiro                |               2
+ Yumi Hotta                    |               2
+ Zora Neale Hurston            |               2
+ mile Zola                     |               2
+

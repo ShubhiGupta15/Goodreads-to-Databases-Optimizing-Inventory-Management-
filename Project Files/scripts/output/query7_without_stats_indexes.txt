@@ -1,0 +1,14 @@
+                                                         QUERY PLAN                                                          
+-----------------------------------------------------------------------------------------------------------------------------
+ Unique  (cost=294.38..295.88 rows=200 width=150) (actual time=2.213..2.217 rows=27 loops=1)
+   ->  Sort  (cost=294.38..294.88 rows=200 width=150) (actual time=2.213..2.214 rows=27 loops=1)
+         Sort Key: (avg(average_rating)) DESC, language_name
+         Sort Method: quicksort  Memory: 26kB
+         ->  HashAggregate  (cost=284.24..286.74 rows=200 width=150) (actual time=2.193..2.198 rows=27 loops=1)
+               Group Key: language_name
+               Batches: 1  Memory Usage: 48kB
+               ->  Seq Scan on books b  (cost=0.00..280.16 rows=816 width=130) (actual time=0.003..0.586 rows=11117 loops=1)
+ Planning Time: 0.155 ms
+ Execution Time: 2.253 ms
+(10 rows)
+

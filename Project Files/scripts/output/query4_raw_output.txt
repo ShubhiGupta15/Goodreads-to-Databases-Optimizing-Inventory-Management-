@@ -1,0 +1,922 @@
+                 name                 
+--------------------------------------
+ AS Byatt
+ Aaron Medwin
+ Adam Drozdek
+ Adam Swift
+ Adam Woog
+ Adolfo Bioy Casares
+ Adrian Guelke
+ Aeschylus
+ Agatha Christie
+ Al Franken
+ Alak Zenkar
+ Alan  Lee
+ Alan Dean Foster
+ Alan Hausman
+ Albert Einstein
+ Alcoholics Anonymous
+ Alec MacLellan
+ Alexander  Walker
+ Alexander McCall Smith
+ Alexander Payne
+ Alexis de Tocqueville
+ Alfred Bester
+ Alice Wong
+ Allen J Frantzen
+ Alma Flor Ada
+ Alma MacDougall Reising
+ Alonzo C Addison
+ Ana Alcaina
+ Andrew      Hunt
+ Andrew Heintzman
+ Andrew P Trout
+ Angel MY Lin
+ Angela J Linn
+ Ann Major
+ Anna Maxted
+ Anne Mazer
+ Annette Lavers
+ Annette Meyers
+ Anonymous
+ Anthony Bourdain
+ Anthony E Wolf
+ Anthony Thorlby
+ Anthony Thwaite
+ Anton Lesser
+ Antonina W Bouis
+ Apollodorus
+ Aristophanes
+ Aristotle
+ Arthur Edward Waite
+ Audrey Niffenegger
+ August Wilson
+ Augustine of Hippo
+ Avatar Polymorph
+ BK Beckwith
+ Babette Smith
+ Barbara Conklin
+ Barry R Cournoyer
+ Beau Bridges
+ Ben Mikaelsen
+ Benjamin Jowett
+ Berlitz Publishing Company
+ Bernd Matzkowski
+ Beth A Jones
+ Beth Chaplin
+ Betty McCollum
+ Bill   Phillips
+ Bill Gardner
+ Bill Hybels
+ Billy Crystal
+ Bob Blaisdell
+ Bob Shaw
+ Brady Games
+ Brenda G Bare
+ Brendan DuBois
+ Bret Easton Ellis
+ Brian Ajhar
+ Brian Doherty
+ Brian P Flannery
+ Brian Sibley
+ Brian W Aldiss
+ Bruce Alvin King
+ Bruce Arnold
+ Bruce L Edwards
+ Bruce Spizer
+ C Patrick Doncaster
+ C Thomas Wass
+ CF Smith
+ CK Scott Moncrieff
+ CL Moore
+ CLAMP
+ CM Kornbluth
+ Campbell Scott
+ Carl Senna
+ Carlos A Schwantes
+ Carlos Milla Soler
+ Carme Camps Monf
+ Carol Lee
+ Carol Marinelli
+ Caroline Denzler
+ Carolyn L Gegor
+ Carolyn Meyer
+ Carroll John Daly
+ Catharine M Fishel
+ Catherine Chaine
+ Catherine Hapka
+ Catherine Nichols
+ Cesare Beccaria
+ Charles  Green
+ Charles Allen
+ Charles Burns
+ Charles Coulston Gillispie
+ Charles Lockwood
+ Charles McKeown
+ Charles R Miller
+ Charles R Swindoll
+ Charles Rembar
+ Charles Segal
+ Charles Tandy
+ Charles Tang
+ Charles de Lint
+ Chase Hensel
+ Chiho Saito
+ Chinua Achebe
+ Chris L Demarest
+ Chris Malta
+ Chris Pratley
+ Chris R Dickman
+ Christian Bonacic
+ Christina Schwarz
+ Christina Scull
+ Christopher   Black
+ Christopher Cerf
+ Christopher Golden
+ Christopher Isherwood
+ Christopher J Phoenix
+ Christopher Pinney
+ Christopher Timothy
+ Chuck Palahniuk
+ Claire Brennan
+ Clarence I Kado
+ Clark Howard
+ CliffsNotes
+ Clive Barker
+ Clive Cussler
+ Cody Goodfellow
+ Colin Smith
+ Colin Wiggins
+ Cooks Illustrated Magazine
+ Cordwainer Smith
+ Craig Keller
+ Cris Dornaus
+ Cyd Moore
+ Cynthia ChinLee
+ Cynthia J Arnson
+ Cynthia W Shelmerdine
+ DJ Trindle
+ DW Buffa
+ Dahlia Armon
+ Dale Peterson
+ Damon Knight
+ Dan Birlew
+ Dan Hitt
+ Dan Simmons
+ Dana Regan
+ Daniel Axelrod
+ Daniel Pinchbeck
+ Daniel R Headrick
+ Daniel Waterman
+ Dante Alighieri
+ Dave Aikins
+ Dave Eggers
+ David    Elliott
+ David   Robbins
+ David   Ward
+ David A Nadler
+ David Aers
+ David Baratier
+ David Bjerklie
+ David Bodanis
+ David Brown
+ David Burnie
+ David Cairns
+ David Edgerley Gates
+ David Fishman
+ David G Hartwell
+ David J Hassel
+ David Levithan
+ David Northrup
+ David P DeWitt
+ David Pogue
+ David R Slavitt
+ David Salo
+ David Sedaris
+ David Stanley
+ David Sylvester
+ David Thompson
+ David W Macdonald
+ David Wray
+ David Young
+ Davina Thomas
+ Dawn B Sova
+ Deb Stover
+ Deborah  Gordon
+ Deborah Garrison
+ Debra Cowan
+ Debra Garrison
+ Debra Hess
+ Denis Diderot
+ Denise J Wedel
+ Denise Little
+ Dennis Adler
+ Denys L Page
+ Dian Hanson
+ Diana Butler Bass
+ Diana Cooper
+ Diana Kendall
+ Diana M Lewis
+ Diana Pavlac Glyer
+ Diana Vreeland
+ Diane Johnson
+ Diane Waldman
+ Dick Francis
+ Dick Hill
+ Dobrica Eri
+ Don Macmillan
+ Donada  Peters
+ Donald J Crump
+ Doug Walsh
+ Douglas Adams
+ Douglas Hansen
+ Douglas Moffat
+ Douglas W Carnine
+ Dr Seuss
+ Drew Bishop
+ Drew Hires
+ EB White
+ EDA Morshead
+ EF Bleiler
+ EM Forster
+ Edgar Rice Burroughs
+ Edith Wharton
+ Eduardo Garca Murillo
+ Edward B Davis
+ Edwin A Abbott
+ Elaine Clayton
+ Elda Minger
+ Eleanor J Gibson
+ Elena N Mahlow
+ Eli Geffen
+ Elisa Cerdan
+ Elizabeth Berg
+ Elizabeth J Asteraki
+ Elizabeth Sayles
+ Elizabeth Silverthorne
+ Elizabeth Stevens Girsch
+ Elizabeth von Arnim
+ Ellen Gordon Reeves
+ Emerson Eggerichs
+ Emilie Griffin
+ Emma Barker
+ Emmuska Orczy
+ Enid Blyton
+ Enric Tremps
+ Eoin Colfer
+ Ephraim Sevela
+ Eric McLuhan
+ Eric Schlosser
+ Eric Steiger
+ Erich Maria Remarque
+ Erika Tamar
+ Ernest Reiss
+ Ernst E Jonas
+ Euripides
+ Evan Solomon
+ FW Hall
+ FX Toole
+ Fibben Hald
+ Fiona  Shaw
+ Fiona Stephen
+ Florence Mortimer
+ Fodors Travel Publications Inc
+ Fran Warde
+ Frances Hodgson Burnett
+ Frances J Roberts
+ Francine Pascal
+ Francine du Plessix Gray
+ Frank  Graham
+ Frank N Magill
+ Frank P Incropera
+ Frank Zingrone
+ Franz Kafka
+ Fred Goodman
+ Fred Melton
+ Freddy Michalski
+ Frederick P Lenz
+ Frederik Pohl
+ Friedrich Engels
+ Friedrich Nietzsche
+ Fritha Goodey
+ Fyodor Dostoyevsky
+ G Thomas Tanselle
+ Gabrielle Ann Euvino
+ Gabrielle Weiss
+ Garrick Hagon
+ Garth Williams
+ Gary Carey
+ Georg Wilhelm Friedrich Hegel
+ George Beahm
+ George Crile
+ George E Stanley
+ George Lucas
+ George Ovitt Jr
+ Geraldine McCaughrean
+ Gerard  Murphy
+ Gertrude Chandler Warner
+ Glenn M Schwartz
+ Gloria Goldreich
+ Gordon Korman
+ Gore Vidal
+ Graham Handley
+ Grantland Rice
+ Gray Jolliffe
+ Greg Tang
+ Gregory Maguire
+ Gustave Flaubert
+ Guy Abadia
+ Guy Francis
+ H Resit Akcakaya
+ HG Wells
+ Ha Jin
+ Hannah  Green
+ Hanoch Gutfreund
+ Hans Blumenberg
+ Hans J Schtz
+ Harrison Edward Livingstone
+ Harrison Hayford
+ Harry Rowohlt
+ Harvey P Mandel
+ Hayward Morse
+ Heather Cahoon
+ Henry Francis Cary
+ Henry Kuttner
+ Henry Louis Gates Jr
+ Herman Melville
+ Herodotus
+ Hershel Parker
+ Hesiod
+ Hippocrates George Apostle
+ Hirohiko Araki
+ Hiromu Arakawa
+ Honor de Balzac
+ Howard Brodie
+ Howard Korder
+ Howard Zinn
+ Hugh Dickson
+ Hugh Honour
+ Humphrey Palmer
+ I William Zartman
+ Iain M Banks
+ Ian          Hamilton
+ Ian        Martin
+ Ian Edginton
+ Ian Fleming
+ Ian Holm
+ Ian Lemke
+ Immanuel Kant
+ Iris Murdoch
+ Irving Penn
+ Isaac Bashevis Singer
+ Ivan Gaskell
+ Ivo Andri
+ J Martin Evans
+ J Michael Lennon
+ J Michael Walton
+ J Robert King
+ J Ron Stanfield
+ JK
+ JK Rowling
+ JRR Tolkien
+ JV Jones
+ Jack Meadows
+ Jack Vance
+ Jacob Tilove
+ Jacqueline Ann
+ Jacqueline Bloom Stanfield
+ Jahnna N Malcolm
+ Jaime Lucero
+ James  Hawkins
+ James A Grimshaw
+ James A Perkins
+ James Axler
+ James B Stiff
+ James Beckett III
+ James Black Baillie
+ James Blish
+ James C Mitchell
+ James Craig Holte
+ James E Campbell
+ James E Ingram
+ James Ellroy
+ James Grady
+ James H Barker
+ James Joll
+ James K Lowers
+ James Lamar Roberts
+ James M Kouzes
+ James Purdy
+ James Ronald Stanfield
+ James W Jr Ely
+ Jan M Kriebs
+ Jane Medwell
+ Jane Yolen
+ Janet Pack
+ Jasmine CM Luk
+ Jason Hook
+ Jay McInerney
+ Jay O Sanders
+ Jay Parini
+ Jean Aitchison
+ Jean Estoril
+ Jean Marzollo
+ Jean Rabe
+ JeanDaniel Brque
+ JeanLuc Piningre
+ JeanPierre Pugi
+ Jeanne Clidas
+ Jeanne Sallade Criswell
+ Jeanne d Haem
+ Jed Carleton
+ Jeff   Smith
+ Jeffrey Fisher
+ Jennifer Weiner
+ Jill Mansell
+ Jim     Taylor
+ Jim Keogh
+ Jim Yount
+ Jo Clayton
+ Joan Holub
+ Joanne Greenberg
+ Joanne Harris
+ Jodi Picoult
+ Joe Gores
+ Joe Mantegna
+ Joe R Lansdale
+ Johann Wolfgang von Goethe
+ John         Green
+ John  Adams
+ John  Baxter
+ John Biguenet
+ John Carratello
+ John Cheever
+ John E Fa
+ John Fleming
+ John Grisham
+ John Helfers
+ John Kenneth Galbraith
+ John Le Mesurier
+ John Linstrum
+ John Patrick Diggins
+ John Piper
+ John Ruffing
+ John Shapley Gray
+ John Stone
+ John W Dettman
+ John Weld
+ Jonathan  A Goldstein
+ Jonathan Croall
+ Jonathan Harr
+ Jonathan Ryder
+ Jonathan Safran Foer
+ Jonathan Swift
+ Joo Guimares Rosa
+ Joseph Rowe
+ Joshua Ginsberg
+ Joyce Carol Oates
+ Juan Larrea
+ Judi Barrett
+ Judith M Meloy
+ Judy Hall
+ Julia Wilkinson
+ Julian Markels
+ Julian Mitchell
+ Julie Sylvester
+ Justin   OBrien
+ Kahlil Gibran
+ Karen  OConnor
+ Karen L Beasley
+ Karen Zeinert
+ Karin Jacobson
+ Karl Marx
+ Kate Atkinson
+ Kate Beckinsale
+ Kate Hemphill
+ Kate William
+ Kathy Emery
+ Katie Elliott
+ Katrina Service
+ Keith Badman
+ Keith Donohue
+ Keith Herber
+ Ken Kesey
+ Kenneth H Blanchard
+ Keri Wyatt Kent
+ Kermit L Hall
+ Kerry A Graves
+ Kevin Andrew Murphy
+ Kevin Miller
+ Kim Harrison
+ Kim W Woods
+ Kingdome
+ Konrad Eisenbichler
+ Kurt Vonnegut Jr
+ Kwame Anthony Appiah
+ Kyoko Hikawa
+ LM Montgomery
+ LP De Castelvecchio
+ Larry J Sabato
+ Larry J Stephens
+ Laura Driscoll
+ Laurel Lefkow
+ Laurell K Hamilton
+ Lawrence M Lasher
+ Lawrence Sanders
+ Lee Child
+ Lena Tabori
+ Lennart Hellsing
+ Les Firbank
+ Leslie Tryon
+ Lewis B Namier
+ Lily Trokenberg Hechtman
+ Lin Carter
+ Lindsay Mack
+ Lindsey Davis
+ Lionel Trilling
+ Lisa McCourt
+ Lisa S  French
+ Lisa Suttora
+ Lise Albrechtsen
+ Lonely Planet
+ Loral Dean
+ Lori Grove
+ Lori McElrathEslick
+ Louis E Catron
+ Louis Sachar
+ Louisa May Alcott
+ Louise Bostock Lang
+ Louise M Bishop
+ Luigi  Barzini
+ Luigi Pirandello
+ Lyman L Johnson
+ Lynda Milligan
+ Lynn Keller
+ Lynn Sweat
+ Madonna J Hettinger
+ Maeve Binchy
+ Maki Murakami
+ Mamiko Murakami
+ Mao Zedong
+ Mara Prez Lpez de Heredia
+ Marc S Gerstein
+ Marcel Cardillo
+ Marcel Proust
+ Marcia Angell
+ Margaret A Weiss
+ Margaret Weis
+ Margaret Weiss
+ Marian Keyes
+ MarieHlne Sabard
+ Mark  Hunter
+ Mark Anestis
+ Mark Bego
+ Mark Cahill
+ Mark Haddon
+ Mark Honan
+ Mark LeVine
+ Mark Lewisohn
+ Mark Manning
+ Mark S Boyce
+ Mark Twain
+ Marshall McLuhan
+ Marta Torent Lpez de Lamadrid
+ Martha Banta
+ Martin Kalin
+ Martin Puchner
+ Mary B Collins
+ Mary Cutler
+ Mary Ellen Snodgrass
+ Mary Jo Boyer
+ Mary Miller
+ Mary Pope Osborne
+ Mary T Clark
+ Mary Wollstonecraft Shelley
+ Masakazu Katsura
+ Matthew S Armstrong
+ Maya Gold
+ McDougal Littell
+ McDougal Publishing Staff
+ Mel Bay
+ Melissa M Garcia
+ Michael      Casey
+ Michael  Rossi
+ Michael Bakewell
+ Michael Connelly
+ Michael Cox
+ Michael Crichton
+ Michael Cunningham
+ Michael D Lyman
+ Michael Grden
+ Michael Hordern
+ Michael Hunter
+ Michael John Petry
+ Michael Malone
+ Michael Nelson
+ Michael Prichard
+ Michael S Lasky
+ Michael Sheen
+ Michael Spring
+ Michael Syvanen
+ Michael Wharton
+ Michelle HerpeVolinsky
+ Michio Kaku
+ Middlesex Borough Heritage Committee
+ Miguel de Cervantes Saavedra
+ Molly C Lee
+ Molly Hatchet
+ N Mark Collins
+ NOT A BOOK
+ Nancy J Smith
+ Nancy Sheehan
+ Nancy White Carlstrom
+ Nathan Haskell Dole
+ Nathaniel Hawthorne
+ Nayantara Sahgal
+ Neal Barrett Jr
+ Neal Stephenson
+ Neil Taylor
+ Nelson DeMille
+ Nextext
+ Ngawang Pelzang
+ Niall Brady
+ Nicholas    Evans
+ Nicholas P White
+ Nick Bostrom
+ Nick Webb
+ Nicolas Tredell
+ Nora Roberts
+ Norma Goldman
+ Norman Rodway
+ Open City Magazine
+ Orhan Pamuk
+ Orson Scott Card
+ Otto Penzler
+ PD Eastman
+ PG Wodehouse
+ Padmakara Translation Group
+ Pamela Ball
+ Pamela Kyle Crossley
+ Paramahansa Yogananda
+ Parveen Adams
+ Pascal Quidault
+ Paschal Beverly Randolph
+ Pat Ronson Stewart
+ Patricia McHugh
+ Patrick OBrian
+ Patrick Robinson
+ Patrul Rinpoche
+ Patty Carratello
+ Paul  Kirk
+ Paul A Mongeau
+ Paul Baender
+ Paul Finkelman
+ Paul Kemprecos
+ Paul Tidman
+ Paula J Caplan
+ Peggy Parish
+ Peter   Sutton
+ Peter  Dale
+ Peter  Guzzardi
+ Peter Davison
+ Peter Hall
+ Peter Hamilton
+ Peter Howell
+ Peter K Chadwick
+ Peter Meineck
+ Peter Vaughan
+ Peter Woodthorpe
+ Phil Interlandi
+ Philip Bosco
+ Philip Jos Farmer
+ Philip K Dick
+ Philip Roth
+ Phyllis A Bird
+ Piers Anthony
+ Plato
+ Plum Sykes
+ Pociao
+ Quentin Blake
+ R Dillon Boylan
+ R McL Wilson
+ R Michael Perry
+ RL Wilson
+ RR Palmer
+ RWB Lewis
+ Radcliffe G Edmonds III
+ Rafael Carpintero
+ Ral
+ Rebecca Aberg
+ Rebecca Coffey
+ Rebecca J Donatelle
+ Rebecca Morrill
+ Redwood Kardon
+ Rem Koolhaas
+ Renate OrthGuttmann
+ Rhonda  Evans
+ Richard Curtis
+ Richard D Nelson
+ Richard Ford
+ Richard Johnsonbaugh
+ Richard Kern
+ Richard P Feynman
+ Richard P Wasowski
+ Richard Russo
+ Richard T Gray
+ Richard W Bulliet
+ Richard Wagner
+ Richard Wright
+ Rick Decker
+ Rick Moody
+ Rick Osborne
+ Roald Dahl
+ Rob Humphreys
+ Robert    Lee
+ Robert A Freitas Jr
+ Robert A Harris
+ Robert A Nye
+ Robert A Weiss
+ Robert AM Stern
+ Robert B Parker
+ Robert B Shaw
+ Robert Benedetti
+ Robert Boyle
+ Robert Doisneau
+ Robert Egan
+ Robert Hardy
+ Robert Irwin
+ Robert J Milch
+ Robert L Geneve
+ Robert L OConnell
+ Robert Louis Stevenson
+ Robert Ludlum
+ Robert Penn Warren
+ Robert Rietty
+ Robert Sandberg
+ Robert Sheckley
+ Robert Stephens
+ Robert Stock
+ Roberto Fernandez Sastre
+ Roberto de Hollanda
+ Robin Hanson
+ Robin Hobb
+ Robin McKinley
+ Robin Wayne Bailey
+ Roddy Doyle
+ Roger Hargreaves
+ Roger Zelazny
+ Roland Barthes
+ Ron Barrett
+ Ronald J Faust
+ Rosalind M Greenberg
+ Rosemary Leach
+ Ross Garnaut
+ Ross Samson
+ Roy F Cucchiara
+ Rula Lenska
+ Rumiko Takahashi
+ Russell Davis
+ Russell Evans
+ Ruth  Abbey
+ Ruth E Feber
+ Ruth Mazo Karras
+ Ruth Ozeki
+ Ruth Westheimer
+ Sally Wern Comport
+ Salman Rushdie
+ Salvatore Murdocca
+ Sam Johnson
+ Sam Kauffmann
+ Samuel Hynes
+ Sander I Marcus
+ Sandra Baker
+ Sandra Brown
+ Sandra Steffen
+ Sandy Antunes
+ Sara BartonWood
+ Sarah Gold
+ Sarah Johnstone
+ Sarah Mlynowski
+ Satosumi Takaguchi
+ Saul A Teukolsky
+ Scott Wolven
+ Seamus Heaney
+ Sean Doolittle
+ Seth Mason
+ Shannon Eileen Hengen
+ Sharon Rose Wilson
+ Shawn Carman
+ Sheila Z
+ Sheri Rose Shepherd
+ Sian Thomas
+ Simon Anholt
+ Simon Fraser
+ Simon Goldhill
+ Simon Perchik
+ SparkNotes
+ Stanley Appelbaum
+ Stephen  Oliver
+ Stephen A Ellwood
+ Stephen Cobb
+ Stephen H Rose
+ Stephen Hunter
+ Stephen King
+ Stephen M Pollan
+ Stephen Mennell
+ Stephen R Covey
+ Stephen Rebello
+ Steve Albon
+ Steve Fallon
+ Steve Pieczenik
+ Steven Hirsch
+ Steven Kellogg
+ Steven W Hirsch
+ Stewart Brand
+ Strawberry Saroyan
+ Stuart Hirshfield
+ Stuart M Kaminsky
+ Susan Sontag
+ Susan Van Kirk
+ Susanna B Hecht
+ Susanne AlthoetmarSmarczyk
+ Suzanne C OConnell Smeltzer
+ T Coraghessan Boyle
+ Tad Williams
+ Takashi Hashiguchi
+ Tara MacCarthy
+ Tara McCarthy
+ Teddy Slater
+ Tennessee Williams
+ Terry Brooks
+ Terry Cooper
+ Terry Deary
+ Terry Gilliam
+ Terry Pastor
+ The Beatles
+ Thea Kliros
+ Theresa Wright
+ Thomas B Friedman
+ Thomas Carlyle
+ Thomas H Cook
+ Thomas Hardy
+ Thomas Kinkade
+ Thomas L Friedman
+ Thomas N Spackman
+ Thomas Ryan
+ Thucydides
+ Tim Bogenn
+ Tim OBrien
+ Timothy D Taylor
+ Timothy Moriarty
+ Tish Boyle
+ Tom Clancy
+ Tom Hunter
+ Tom Masters
+ Tom Robbins
+ Toni Morrison
+ Tony Westermayr
+ Tracy Chevalier
+ Tracy Hickman
+ Travis Heerman
+ United Feature Syndication
+ VC Andrews
+ VT Rajshekar
+ Victor G Ambrus
+ Vincent Ceci
+ Virginia Lee Burton
+ W Frederick Zimmerman
+ W John Campbell
+ WM Geldart
+ WS Hett
+ Walt Disney Company
+ Walter Blair
+ Walter Foster Creative Team
+ Walter Scott
+ Waris Dirie
+ Warren G Bennis
+ Wayne Alfano
+ Wayne G Broehl Jr
+ Wayne G Hammond
+ William A Cohen
+ William Empson
+ William Faloon
+ William Golding
+ William H Press
+ William Hope
+ William L Simon
+ William R Gray
+ William Shakespeare
+ William Sleator
+ William T Vetterling
+ Xavier de C
+ YKids
+ YN Kly
+ Yayoi Ogawa
+ Yefim Gordon
+ Yko Kamio
+ Youshan Tang
+ Yuki Shimizu
+ ZZ Packer
+ Zo Ross
+ sne Seierstad
+

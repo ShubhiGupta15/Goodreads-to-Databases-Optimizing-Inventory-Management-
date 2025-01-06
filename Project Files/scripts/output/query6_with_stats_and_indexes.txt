@@ -1,0 +1,25 @@
+                                                                       QUERY PLAN                                                                       
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+ Limit  (cost=640.67..640.75 rows=10 width=524) (actual time=19.153..19.156 rows=10 loops=1)
+   ->  Unique  (cost=640.67..642.17 rows=200 width=524) (actual time=19.152..19.155 rows=10 loops=1)
+         ->  Sort  (cost=640.67..641.17 rows=200 width=524) (actual time=19.152..19.153 rows=10 loops=1)
+               Sort Key: (sum((b.ratings_count + b.text_reviews_count))) DESC, a.name
+               Sort Method: quicksort  Memory: 761kB
+               ->  HashAggregate  (cost=631.03..633.03 rows=200 width=524) (actual time=9.669..10.152 rows=9190 loops=1)
+                     Group Key: a.name
+                     Batches: 1  Memory Usage: 1185kB
+                     ->  Hash Join  (cost=420.00..614.23 rows=2240 width=524) (actual time=2.962..7.244 rows=19125 loops=1)
+                           Hash Cond: (ba.bookid = b.bookid)
+                           ->  Hash Join  (cost=129.64..317.95 rows=2240 width=520) (actual time=1.206..3.827 rows=19125 loops=1)
+                                 Hash Cond: ((ba.authorid)::text = (a.authorid)::text)
+                                 ->  Seq Scan on book_authors ba  (cost=0.00..182.40 rows=2240 width=520) (actual time=0.003..0.668 rows=19125 loops=1)
+                                 ->  Hash  (cost=119.84..119.84 rows=784 width=1032) (actual time=1.198..1.198 rows=9190 loops=1)
+                                       Buckets: 16384 (originally 1024)  Batches: 1 (originally 1)  Memory Usage: 592kB
+                                       ->  Seq Scan on authors a  (cost=0.00..119.84 rows=784 width=1032) (actual time=0.004..0.475 rows=9190 loops=1)
+                           ->  Hash  (cost=280.16..280.16 rows=816 width=12) (actual time=1.752..1.752 rows=11117 loops=1)
+                                 Buckets: 16384 (originally 1024)  Batches: 1 (originally 1)  Memory Usage: 606kB
+                                 ->  Seq Scan on books b  (cost=0.00..280.16 rows=816 width=12) (actual time=0.004..1.062 rows=11117 loops=1)
+ Planning Time: 0.371 ms
+ Execution Time: 19.191 ms
+(21 rows)
+

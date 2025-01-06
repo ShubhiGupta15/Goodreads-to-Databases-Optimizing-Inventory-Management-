@@ -1,0 +1,38 @@
+                                                                                                 QUERY PLAN                                                                                                  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Limit  (cost=381.49..381.50 rows=1 width=1286) (actual time=6.636..6.638 rows=10 loops=1)
+   ->  Sort  (cost=381.49..381.50 rows=1 width=1286) (actual time=6.636..6.637 rows=10 loops=1)
+         Sort Key: b.average_rating DESC, b.text_reviews_count DESC
+         Sort Method: top-N heapsort  Memory: 29kB
+         ->  GroupAggregate  (cost=381.46..381.48 rows=1 width=1286) (actual time=6.607..6.620 rows=27 loops=1)
+               Group Key: b.bookid, p.publisher_name
+               ->  Sort  (cost=381.46..381.46 rows=1 width=1794) (actual time=6.604..6.606 rows=59 loops=1)
+                     Sort Key: b.bookid, p.publisher_name
+                     Sort Method: quicksort  Memory: 35kB
+                     ->  Nested Loop  (cost=44.12..381.45 rows=1 width=1794) (actual time=0.653..6.589 rows=59 loops=1)
+                           ->  Nested Loop  (cost=43.84..380.29 rows=2 width=1794) (actual time=0.640..6.238 rows=59 loops=1)
+                                 ->  Nested Loop  (cost=39.48..340.33 rows=1 width=1278) (actual time=0.634..6.147 rows=27 loops=1)
+                                       Join Filter: ((p.publisher_name)::text = (publishers.publisher_name)::text)
+                                       Rows Removed by Join Filter: 61749
+                                       ->  Nested Loop  (cost=0.28..296.63 rows=1 width=1278) (actual time=0.012..1.271 rows=27 loops=1)
+                                             ->  Seq Scan on books b  (cost=0.00..288.32 rows=1 width=1064) (actual time=0.005..1.235 rows=27 loops=1)
+                                                   Filter: ((average_rating > 4.5) AND (text_reviews_count > 100) AND (publication_date >= '2000-01-01'::date) AND (publication_date <= '2020-12-31'::date))
+                                                   Rows Removed by Filter: 11090
+                                             ->  Index Scan using publishers_pkey on publishers p  (cost=0.28..8.29 rows=1 width=222) (actual time=0.001..0.001 rows=1 loops=27)
+                                                   Index Cond: (publisherid = b.publisherid)
+                                       ->  HashAggregate  (cost=39.20..41.20 rows=200 width=218) (actual time=0.017..0.126 rows=2288 loops=27)
+                                             Group Key: (publishers.publisher_name)::text
+                                             Batches: 1  Memory Usage: 385kB
+                                             ->  Seq Scan on publishers  (cost=0.00..36.96 rows=896 width=218) (actual time=0.004..0.120 rows=2288 loops=1)
+                                 ->  Bitmap Heap Scan on book_authors ba  (cost=4.37..39.85 rows=11 width=520) (actual time=0.002..0.003 rows=2 loops=27)
+                                       Recheck Cond: (b.bookid = bookid)
+                                       Heap Blocks: exact=27
+                                       ->  Bitmap Index Scan on book_authors_pkey  (cost=0.00..4.36 rows=11 width=0) (actual time=0.002..0.002 rows=2 loops=27)
+                                             Index Cond: (bookid = b.bookid)
+                           ->  Index Scan using authors_pkey on authors a  (cost=0.28..0.58 rows=1 width=516) (actual time=0.006..0.006 rows=1 loops=59)
+                                 Index Cond: ((authorid)::text = (ba.authorid)::text)
+                                 Filter: (length((name)::text) > 5)
+ Planning Time: 0.539 ms
+ Execution Time: 6.685 ms
+(34 rows)
+
