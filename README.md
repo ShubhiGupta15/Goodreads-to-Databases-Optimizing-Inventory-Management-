@@ -60,7 +60,6 @@ The dataset for this project is sourced from **Goodreads**, a popular online pla
 
 The ER diagram represents the database design, showcasing entities such as Books, Authors, Genres, and Ratings along with their attributes and relationships.
 
-*(Include an image or diagram of your ER model here)*
 
 ---
 
